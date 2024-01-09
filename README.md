@@ -2,6 +2,8 @@
 
 The idea of this project is to commit yourself to code at least one hour every day in any language you want for a hundred days (at least). The regularity is key here, you need to practice a bit every day, including the weekends. All the challenges present here are medium/hard level. You can (and you should) participate even if you don't have much experience with coding, it will only take a bit longer. Most of the challenges can be solved in three hours or less.
 
+[IBM Developer](https://developer.ibm.com/devpractices/devops/articles/)
+
 ## Rules
 
 The main rule is:
@@ -16,31 +18,31 @@ The main rule is:
 ## Index
 
 - Week-01
-  - day-01 - Convert Age to Days
-  - day-02 - Finding Nemo
-  - day-03 - Barbecue Skewers
-  - day-04 - Is Johnny Making Progress?
-  - day-05 - Pair of Socks
-  - day-06 - Next Prime
-  - day-07 - Merge Sorted Array
+  - day-01 - Introduction to Docker
+  - day-02 - Docker Compose
+  - day-03 - Introduction to Kubernetes
+  - day-04 - Kubernetes Deployment
+  - day-05 - Kubernetes Services
+  - day-06 - Kubernetes Ingress
+  - day-07 - Kubernetes Helm
 - Week-02
-  - day-08 - Letter Combinations of a Phone Number
-  - day-09 - Trapping Rain Water
-  - day-10 - Unique Binary Search Trees
-  - day-11 - Restore IP Addresses
-  - day-12 - Mountains or Valleys
-  - day-13 - Need Help With Your Packing?
-  - day-14 - The Karaca's Encryption Algorithm
+  - day-08 - Introduction to Ansible
+  - day-09 - Ansible Playbooks
+  - day-10 - Ansible Roles
+  - day-11 - Ansible Vault
+  - day-12 - Ansible Tower
+  - day-13 - Introduction to Terraform
+  - day-14 - Terraform Configuration
 - Week-03
-  - day-15 - Valid Anagram
-  - day-16 - Nim Game
-  - day-17 - Prison Break
-  - day-18 - Unique Paths
-  - day-19 - URL Shortener
-  - day-20 - API Challenge
-  - day-21 - Random Maze Generator
+  - day-15 - Terraform Modules
+  - day-16 - Terraform Providers
+  - day-17 - Terraform State
+  - day-18 - Introduction to Jenkins
+  - day-19 - Jenkins Pipeline
+  - day-20 - Jenkins Plugins
+  - day-21 - Jenkins Security
 - Week-04
-  - day-22 - Marcio Mello's Challenge
-  - day-23 - The Dining Philosophers
+  - day-22 - Introduction to AWS
+  - day-23 - AWS EC2
 
 Feel free to customize this README.md file to your liking. Happy coding! 🚀
